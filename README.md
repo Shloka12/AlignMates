@@ -10,7 +10,12 @@ AlignMates is an interactive application designed to visualize the Needleman-Wun
 - Python 3.x
 - cmu_graphics
 - PIL (Python Imaging Library)
-  
+
+## Project Structure
+- `src/`: Contains the Python script (`AlignMates.py`) for running the application.
+- `images/`: Contains image files (`dna.png`, `help.png`) used by the application.
+- `lib/`: Contains any libraries or additional code required for the application.
+
 ### Running the Application
 1. Clone the repository or download the project files.
 2. Ensure `dna.png` and `help.png` are in the project directory.
