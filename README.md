@@ -1,5 +1,5 @@
 # AlignMates
-AlignMates is an interactive application designed to visualize the Needleman-Wunsch algorithm, a fundamental algorithm used in bioinformatics for aligning genomic sequences. It allows users to input two sequences and set parameters for match, mismatch, and gap penalties to compute the optimal global alignment.
+AlignMates is an interactive application designed to visualize the Needleman-Wunsch algorithm, a fundamental algorithm used in bioinformatics for aligning genomic/proteomic sequences. It allows users to input two sequences and set parameters for match, mismatch, and gap penalties to compute the optimal global alignment.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine.
