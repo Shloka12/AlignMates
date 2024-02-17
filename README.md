@@ -16,11 +16,6 @@ AlignMates is an interactive application designed to visualize the Needleman-Wun
 - `images/`: Contains image files (`dna.png`, `help.png`) used by the application.
 - `lib/`: Contains any libraries or additional code required for the application.
 
-### Running the Application
-1. Clone the repository or download the project files.
-2. Ensure `dna.png` and `help.png` are in the project directory.
-3. Run `AlignMates.py` in your Python environment.
-
 ## Usage
 - **Tab**: Switches between input fields.
 - **Enter**: Executes the sequence alignment algorithm.
