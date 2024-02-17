@@ -17,6 +17,6 @@ AlignMates is an interactive application designed to visualize the Needleman-Wun
 - **Escape/Space/Right Arrow**: Switches between screens/views.
 
 ## Additional Notes
-Ensure all input sequences are valid DNA/RNA sequences. The application is case-insensitive for sequence inputs. Match, mismatch, and gap scores should be integers.
+Ensure all input sequences are valid DNA/RNA/protein sequences. The application is case-insensitive for sequence inputs. Match, mismatch, and gap scores should be integers.
 
 
