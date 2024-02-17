@@ -3,6 +3,8 @@ AlignMates is an interactive application designed to visualize the Needleman-Wun
 
 <img width="749" alt="Welcome" src="https://github.com/Shloka12/AlignMates/assets/67782856/845cc28d-1f2b-410a-a56f-6094752a3ed5">
 
+<img width="745" alt="help" src="https://github.com/Shloka12/AlignMates/assets/67782856/673e738a-8160-4238-869e-49e539fcf6b5">
+
 <img width="746" alt="Alignment" src="https://github.com/Shloka12/AlignMates/assets/67782856/87b94a97-0fcf-474e-92ca-15e83a2094fe">
 
 
